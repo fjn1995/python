@@ -1,0 +1,13 @@
+material,sopra_composition,Range (nm),Description,sopra_composition
+AlGaInP,Al,225     1000,Aluminimum Gallium Indium Phosphide (varying Al fraction 0-100%: 50% In and P),0    100
+AlGaAs,Al,206     826,Aluminum Gallium Arsenide (varying Al fraction 0-100%),0  100
+HgCdTe,Cd,200      900,Mercury Cadmium Telluride (varying Cd fraction 0-29%),0  29
+InGaSb,Ga,225      825,Indium Gallium Antimonide (varying Ga fraction 0-100%),0 100
+SIGe,Ge,163     729,Relaxed Silicon Germanium (varying Ge fraction 11-100%),11  100
+ReSiGe,Si,240      840,Silicon Germanium (varying Si fraction 11-98%),11    98
+StSiGe,Ge,275      619,Strained Silicon Germanium (varying Ge fraction 0-22%),0 22
+ZnCdTe,Cd,229     1127,Zinc Cadmium Telluride (varying Cd fraction 0-100%),0    100
+ZnSeTe,Te,196     1771,Zinc Selenium Telluride (varying Te fraction 0-10%),0    10
+SiON,N,250      800,Silicon Oxynitride (varying N fraction 10-80%),10   80
+ReInGaAs,In,206     2479,Relaxed Indium Galium Arsenide (varying In fraction 0-24%),0   24
+StInGaAs,In,240      840,Strained Indium Gallium Arsenide (varying In fraction 0-24%),0 24
